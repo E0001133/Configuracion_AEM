@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/Pagina/clientlibs"/>
+    <filter root="/apps/Pagina/components"/>
+    <filter root="/apps/Pagina/i18n"/>
+</workspaceFilter>
